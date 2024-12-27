@@ -11,7 +11,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Github Project: [https://github.com/xgbdev/testimonials-grid-section](https://github.com/xgbdev/testimonials-grid-section)
-- Web deployed on Vercel: [Add live site URL here](https://your-live-site-url.com)
+- Web deployed on Vercel: [https://testimonials-grid-section-gamma-azure.vercel.app](https://testimonials-grid-section-gamma-azure.vercel.app/)
 
 ## My process
 
